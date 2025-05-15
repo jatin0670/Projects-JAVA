@@ -8,7 +8,7 @@ public class Bank {
         
        
 
-        int balance = 1000;
+        int balance = 2000;
         int x;
         manu();
 
