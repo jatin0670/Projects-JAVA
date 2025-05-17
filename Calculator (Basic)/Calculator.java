@@ -54,6 +54,7 @@ public class Calculator {
                 break;
         }
         System.out.println("");
+        in.close();
     }while(opt!=0);
 
     }
